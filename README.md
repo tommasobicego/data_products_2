@@ -7,3 +7,5 @@ Above the checkboxes you can see the formula for the linear regression you're tr
 On the right side of the application you can see the results of the linear regression, with the various results, means, p-values, etc. Below that there's a set of graphs that compare the mpg variable (miles per unit of gallon) with the other ones.
 The ones not factorized appear as boxplots, the ones that are not appear as simple graphs with the linear regression line.
 Below this graph there's the residual plot for the selected formula.
+
+![alt tag](https://github.com/tommasobicego/data_products_2/blob/master/images/graphs.PNG)
