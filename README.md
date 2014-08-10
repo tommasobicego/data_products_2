@@ -5,6 +5,7 @@ Tommaso Bicego, Milano - Italia, 10/08/2014
 
 You can use this app to study the relationships among the variables that constitute the mtcars dataset.
 In order to do this there's a list of checkboxes on the left you can select or deselect, the algorithms implemented consequently change depending on the variables you want to add to the formula.
+As the title already says the comparison is between the **mpg** variable and the rest.
 
 ![alt tag](https://github.com/tommasobicego/data_products_2/blob/master/images/variables.PNG)
 
